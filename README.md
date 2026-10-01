@@ -1,7 +1,7 @@
 Clonar o projeto
 
 Baixar o arquivo
- 
+
 ```
 https://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2025/POP2025_20260828.xls
 ```
@@ -22,4 +22,4 @@ Instalar as dependências:
 
 ```
 pip install -r requirements.txt
-```# python_t9
+```
