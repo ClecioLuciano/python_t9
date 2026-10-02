@@ -1,4 +1,4 @@
-Clonar o projeto
+Clonar o projeto do git
 
 Baixar o arquivo
 
