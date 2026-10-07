@@ -1,6 +1,6 @@
 import pandas as pd
 
-CAMINHO_CSV = "eleicoes.csv"
+CAMINHO_CSV = "./aula_07102026/eleicoes.csv"
 
 def carregar_dados():
     df = pd.read_csv(CAMINHO_CSV, dtype={"zona": str, "secao": str})
